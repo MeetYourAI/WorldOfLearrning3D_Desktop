@@ -2,15 +2,24 @@
 
 ## **🧾Table of Contents**
 
-- [📖 Introduction](#Introduction)
-- [🚀How to Access World of Learning](#How-to-access)
-- [🎮Gameplay & Features](#features)
-- [⚙️Technical Details](#techdetails)
-- [🗂️Repository Structure](#repo-structure)
-- [🤝Community Contributions](#contributions)
-- [👨🏻‍💻Contact & Support](#contact-support)
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=3 orderedList=false} -->
 
-## **📖Introduction**<a name="Introduction"></a>
+<!-- code_chunk_output -->
+
+  - [**📖Introduction**](#introduction)
+  - [**🚀How to Access World of Learning**](#how-to-access-world-of-learning)
+  - [**🎮Gameplay & Features**](#gameplay--features)
+  - [**⚙️Technical Details**](#️technical-details)
+    - [**🚨System Requirements**](#system-requirements)
+    - [**🖥️Tech Stack**](#️tech-stack)
+    - [**🛠️Installation & Setup**](#️installation--setup)
+  - [**🗂️Repository Structure**](#️repository-structure)
+  - [**🤝Community Contributions**](#community-contributions)
+  - [**👨🏻‍💻Contact & Support**](#contact--support)
+
+<!-- /code_chunk_output -->
+
+## **📖Introduction**
 
 Welcome to _Magic Worlds_ where everything is possible and the only limit is your imagination and dreams. Forever free, family friendly and open source.
 
@@ -22,7 +31,7 @@ _World of Learning_ is the perfect place to expand your mind in a fun and engagi
 Whether you're diving into history, solving mathematical equations, or mastering new languages,
 _World of Learning_ is the ultimate space for expanding your mind.
 
-## **🚀How to Access World of Learning**<a name="How-to-access"></a>
+## **🚀How to Access World of Learning**
 
 1. **Launch Magic Worlds** and enter your spaceship.
 2. **Talk to the Vice Captain** by walking up ahead and pressing `E`.
@@ -32,7 +41,7 @@ _World of Learning_ is the ultimate space for expanding your mind.
 6. **Select World of Learning** in the World Hub.
 7. **Start Exploring**: Visit knowledge hubs, complete learning quests, and unlock new skills.
 
-## **🎮Gameplay & Features**<a name="features"></a>
+## **🎮Gameplay & Features**
 
 - 📚 **Virtual Libraries** – Explore vast digital archives with books and multimedia content.
 - 🧠 **Interactive Lessons** – Engage in gamified learning experiences on various subjects.
@@ -42,7 +51,7 @@ _World of Learning_ is the ultimate space for expanding your mind.
 - 🎓 **Skill Progression** – Track your learning journey and level up in different fields.
 - 🎁 **Exclusive Rewards** – Unlock special educational tools and earn learning tokens.
 
-## **⚙️Technical Details**<a name="techdetails"></a>
+## **⚙️Technical Details**
 
 ### **🚨System Requirements**
 
@@ -82,7 +91,7 @@ _Magic Worlds_ is built using the following technologies:
 3. Extract the downloaded file (if applicable).
 4. Run the game executable to start playing.
 
-## **🗂️Repository Structure**<a name="repo-structure"></a>
+## **🗂️Repository Structure**
 
 ```plaintext
 WorldofLearrning3D_Desktop/
@@ -94,7 +103,7 @@ WorldofLearrning3D_Desktop/
 │-- LICENSE        # License details
 ```
 
-## **🤝Community Contributions**<a name="contributions"></a>
+## **🤝Community Contributions**
 
 _World of Learning_ is part of the open-source _Magic Worlds_ project. You can contribute by:
 
@@ -102,7 +111,7 @@ _World of Learning_ is part of the open-source _Magic Worlds_ project. You can c
 - Reporting bugs and suggesting improvements.
 - Joining discussions and beta testing.
 
-## **👨🏻‍💻Contact & Support**<a name="contact-support"></a>
+## **👨🏻‍💻Contact & Support**
 
 📧 **Email**: mflynn1999@gmail.com  
 📘 **Facebook**: [Magic Worlds](https://www.facebook.com/MagikWorlds)  
